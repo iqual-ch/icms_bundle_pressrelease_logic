@@ -1,0 +1,5 @@
+name: 'ICMS Press Release Logic'
+type: module
+description: 'Provides deployment hooks and update functions for the ICMS Press Release bundle.'
+package: Custom
+core_version_requirement: ^10 || ^11
